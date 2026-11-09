@@ -60,9 +60,7 @@ El conjunto de datos contiene 499 registros, una cantidad inferior al tamaño re
 
 El proyecto incluye un dashboard desarrollado en Power BI, con indicadores, gráficos y filtros por género, carrera y año de cursada.
 
-[Ver dashboard completo en PDF](data/raw/notebooks/dashboard/Dashboard_TP_Final.pdf)
-
-[Ver archivo editable de Power BI](data/raw/notebooks/dashboard/Dashboard_TP_Final.pbix)
+[Ver dashboard completo en PDF](data/raw/notebooks/dashboard/dashboard_tp_finalpdf.pdf)
 
 
 
