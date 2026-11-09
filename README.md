@@ -35,6 +35,9 @@ El conjunto de datos contiene 499 registros, una cantidad inferior al tamaño re
 - Power BI
 - GitHub
 
+- ##Visualizaciones del analisis
+-  
+
 ## Datos del proyecto
 
 - *Autora:* [Maria Gabirondo]
