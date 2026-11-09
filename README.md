@@ -1,4 +1,4 @@
-# Análisis de ingresos y gastos de estudiantes universitarios
+# Análisis de ingresos y egresos de estudiantes universitarios
 
 ## Descripción del proyecto
 
