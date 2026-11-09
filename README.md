@@ -35,8 +35,25 @@ El conjunto de datos contiene 499 registros, una cantidad inferior al tamaño re
 - Power BI
 - GitHub
 
-- ##Visualizaciones del analisis
-![Edades](notebooks/edades.png)
+
+
+- ## Visualizaciones del análisis
+
+### Distribución de edades
+![Edades](data/raw/notebooks/edades.png)
+
+### Distribución de ingresos mensuales
+![Ingresos mensuales](data/raw/notebooks/ingresos%20mensuales.png)
+
+### Gasto promedio por categoría
+![Gastos por categoría](data/raw/notebooks/gastos%20x%20categoria.png)
+
+### Ingreso promedio según año de cursada
+![Ingreso según cursada](data/raw/notebooks/ingreso%20promedio%20segun%20cursada.png)
+
+### Ingreso promedio según género
+![Ingreso según género](data/raw/notebooks/ingreso%20segun%20genero.png)
+
 
 ## Datos del proyecto
 
