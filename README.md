@@ -36,21 +36,7 @@ El conjunto de datos contiene 499 registros, una cantidad inferior al tamaño re
 - GitHub
 
 - ##Visualizaciones del analisis
-- ### Distribución de edades
 ![Edades](notebooks/edades.png)
-
-### Distribución de ingresos mensuales
-![Ingresos mensuales](notebooks/ingresos%20mensuales.png)
-
-### Gasto promedio por categoría
-![Gastos por categoría](notebooks/gastos%20x%20categoria.png)
-
-### Ingreso promedio según año de cursada
-![Ingreso según cursada](notebooks/ingreso%20promedio%20segun%20cursada.png)
-
-### Ingreso promedio según género
-![Ingreso según género](notebooks/ingreso%20segun%20genero.png)
--  
 
 ## Datos del proyecto
 
