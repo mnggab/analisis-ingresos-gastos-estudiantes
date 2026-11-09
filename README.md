@@ -55,6 +55,15 @@ El conjunto de datos contiene 499 registros, una cantidad inferior al tamaño re
 ![Ingreso según género](data/raw/notebooks/ingreso%20segun%20genero.png)
 
 
+## Dashboard de Power BI
+
+El proyecto incluye un dashboard interactivo desarrollado en Power BI, con indicadores, gráficos y filtros por género, carrera y año de cursada.
+
+[Ver dashboard completo en PDF](dashboard/Dashboard_TP_Final.pdf)
+
+[Ver archivo editable de Power BI](dashboard/Dashboard_TP_Final.pbix
+
+
 ## Datos del proyecto
 
 - *Autora:* [Maria Gabirondo]
