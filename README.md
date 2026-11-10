@@ -102,22 +102,14 @@ En conclusión, el análisis demuestra el valor de los datos como herramienta pa
 
 El repositorio se organiza en los siguientes directorios:
 
-analisis-ingresos-gastos-estudiantes/
-│
-├── data/
-│   └── Datos originales del proyecto
-│
-├── Processed/
-│   └── Datos limpios y procesados
-│
-├── dashboards/
-│   └── Dashboard y visualizaciones finales
-│
-├── notebook1/
-│   └── Notebook de análisis exploratorio (.ipynb)
-│
-└── README.md
-    └── Documentación del proyecto...
+📁 TP FINAL
+ ├── 📁 data
+ │    ├── 📁 raw
+ │    └── 📁 processed
+ ├── 📁 notebooks
+ ├── 📁 dashboard
+ ├── 📁 images
+ └── 📄 README.md
 
 Esta organización permite mantener separados los datos originales, los archivos procesados, el desarrollo del análisis y los resultados visuales.
 
