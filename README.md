@@ -117,7 +117,7 @@ analisis-ingresos-gastos-estudiantes/
 │   └── Notebook de análisis exploratorio (.ipynb)
 │
 └── README.md
-    └── Documentación del proyecto
+    └── Documentación del proyecto...
 
 Esta organización permite mantener separados los datos originales, los archivos procesados, el desarrollo del análisis y los resultados visuales.
 
