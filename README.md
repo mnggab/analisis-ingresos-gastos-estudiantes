@@ -113,6 +113,15 @@ El repositorio se organiza en los siguientes directorios:
 
 Esta organización permite mantener separados los datos originales, los archivos procesados, el desarrollo del análisis y los resultados visuales.
 
+## Referencias bibliográficas y fuentes
+
+- Kaggle. (s. f.). Dataset sobre ingresos y gastos de estudiantes universitarios. https://www.kaggle.com/datasets
+- The pandas development team. (s. f.). pandas documentation. https://pandas.pydata.org/docs/
+- Matplotlib Development Team. (s. f.). Matplotlib documentation. https://matplotlib.org/stable/
+- Seaborn Development Team. (s. f.). Seaborn documentation. https://seaborn.pydata.org/
+- Microsoft. (s. f.). Documentación de Power BI. https://learn.microsoft.com/es-es/power-bi/
+- GitHub. (s. f.). GitHub documentation. https://docs.github.com/es
+
 
 
 ## Datos del proyecto
