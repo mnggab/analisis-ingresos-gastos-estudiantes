@@ -87,7 +87,8 @@ El proyecto incluye un dashboard desarrollado en Power BI, con indicadores, grá
 [Ver dashboard completo en PDF](data/raw/notebooks/dashboard/dashboard_tp_finalpdf.pdf)
 
 
-##Conclusión final
+
+Conclusión final
 
 A partir del análisis realizado, fue posible explorar el comportamiento económico de los estudiantes universitarios, identificando patrones en sus ingresos y gastos, así como diferencias entre distintos grupos de la muestra.
 
@@ -96,6 +97,29 @@ Los resultados permitieron observar que los gastos asociados a la matrícula (tu
 Este proyecto permitió aplicar distintas etapas del proceso de análisis de datos: recopilación, limpieza, transformación, exploración y visualización de la información. La utilización de herramientas como Python, Pandas, Google Colab y Power BI facilitó la organización de los datos y la comunicación de los resultados mediante representaciones gráficas.
 
 En conclusión, el análisis demuestra el valor de los datos como herramienta para comprender distintas realidades económicas y generar información que permita reflexionar sobre la situación financiera de los estudiantes universitarios. Si bien los resultados corresponden únicamente a la muestra estudiada y no permiten generalizar a toda la población, constituyen un punto de partida para futuras investigaciones más amplias y detalladas.
+
+
+
+El repositorio se organiza en los siguientes directorios:
+
+analisis-ingresos-gastos-estudiantes/
+│
+├── data/
+│   └── Datos originales del proyecto
+│
+├── Processed/
+│   └── Datos limpios y procesados
+│
+├── dashboards/
+│   └── Dashboard y visualizaciones finales
+│
+├── notebook1/
+│   └── Notebook de análisis exploratorio (.ipynb)
+│
+└── README.md
+    └── Documentación del proyecto
+
+Esta organización permite mantener separados los datos originales, los archivos procesados, el desarrollo del análisis y los resultados visuales.
 
 
 
